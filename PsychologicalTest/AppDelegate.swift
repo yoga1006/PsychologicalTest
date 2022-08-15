@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PsychologicalTest
 //
-//  Created by 王鈞則 on 2022/8/8.
+//  Created by Yoga on 2022/8/8.
 //
 
 import UIKit
